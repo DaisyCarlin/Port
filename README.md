@@ -5,6 +5,3 @@ In my current role , I have honed my skills in processing, visualising, and anal
 Projects:
 The Overall Perfomance of F1 Race Winners:
 
-Tableau : https://prod-uk-a.online.tableau.com/#/site/daisyanncarlinfc5f31f82b/workbooks/1241697?:origin=card_share_link
-Python:
-
