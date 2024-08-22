@@ -7,5 +7,6 @@ In my current role , I have honed my skills in processing, visualising, and anal
 Projects:
 
 The Overall Perfomance of F1 Race Winners (Python and Tableau)
+Housing Price Predictor (Python,Machine Learning)
 
 
