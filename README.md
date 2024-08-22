@@ -10,5 +10,5 @@ The Overall Perfomance of F1 Race Winners (Python and Tableau)
 
 Housing Price Predictor (Python,Machine Learning)
 
-Analysis of the global effects cost of the cost of living crisis (Python, Looker)
+Analysis of the global effects cost of the cost of living crisis (Python,Excel, Looker)
 
