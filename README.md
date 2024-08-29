@@ -12,3 +12,5 @@ Housing Price Predictor (Python,Machine Learning)
 
 Analysis of the global effects cost of the cost of living crisis (Python,Excel, Looker)
 
+Stock Market Predictor (Pythin, Machine Learning)
+
